@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="47"/>
+    <region id="CharacterCreationPresets">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationPreset">
+                    <attribute id="CloseUpA" type="LSString" value="MINO_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="MINO_Camera_Closeup_B"/>
+                    <attribute id="Gender" type="uint8" value="1"/>
+                    <attribute id="Overview" type="LSString" value="MINO_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="6112e795-5d35-4057-a0d9-b2f23f8a7472"/>
+                    <attribute id="RootTemplate" type="guid" value="8d50a730-6199-4eba-84fc-266db2829adb"/>
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="7cd80fa4-efa4-46de-9fdd-ad1d3e56da11"/>
+                </node>
+                <node id="CharacterCreationPreset">
+                    <attribute id="CloseUpA" type="LSString" value="MINO_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="MINO_Camera_Closeup_B"/>
+                    <attribute id="Gender" type="uint8" value="0"/>
+                    <attribute id="Overview" type="LSString" value="MINO_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="6112e795-5d35-4057-a0d9-b2f23f8a7472"/>
+                    <attribute id="RootTemplate" type="guid" value="8d50a730-6199-4eba-84fc-266db2829adb"/>
+                    <attribute id="SubRaceUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="2faf7dd8-ccaf-4ea8-81f8-d49069f1474a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

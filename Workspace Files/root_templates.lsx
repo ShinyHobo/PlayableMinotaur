@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!-- Minotaur -->
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="8d50a730-6199-4eba-84fc-266db2829adb" />
+					<attribute id="ParentTemplateId" type="FixedString" value="867c3061-624e-4b02-babb-a23e743fb5d3"/>
+					<attribute id="Name" type="LSString" value="Minotaur_867c3061-624e-4b02-babb-a23e743fb5d3" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

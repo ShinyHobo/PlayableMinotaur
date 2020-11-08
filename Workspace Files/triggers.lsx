@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DOFAperature" type="float" value="10" />
+					<attribute id="DOFFarOnly" type="float" value="1" />
+					<attribute id="DOFFarSharpDistance" type="float" value="0" />
+					<attribute id="DOFFocalDistance" type="float" value="2.8" />
+					<attribute id="DOFNearOnly" type="float" value="0" />
+					<attribute id="DOFNearSharpDistance" type="float" value="0" />
+					<attribute id="FOV" type="float" value="40" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Lerp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SYS_CC_H" />
+					<attribute id="MapKey" type="FixedString" value="787f7d58-cfab-40af-ba28-e83aad41e1c9" />
+					<attribute id="Name" type="LSString" value="MINO_Camera_Overview_A_000" />
+					<attribute id="Speed" type="float" value="2" />
+					<attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="UseDOF" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741870" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_CC_H" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="a1a84319-cc18-1de5-fb00-16b034554e0c" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="6.48 3 115.51" />
+							<attribute id="RotationQuat" type="fvec4" value="0.008661847 0.9381363 0.009894546 0.3460165" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DOFAperature" type="float" value="22" />
+					<attribute id="DOFFarOnly" type="float" value="1" />
+					<attribute id="DOFFarSharpDistance" type="float" value="5" />
+					<attribute id="DOFFocalDistance" type="float" value="5" />
+					<attribute id="DOFNearOnly" type="float" value="0" />
+					<attribute id="DOFNearSharpDistance" type="float" value="0" />
+					<attribute id="FOV" type="float" value="18" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Lerp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SYS_CC_H" />
+					<attribute id="MapKey" type="FixedString" value="a3809c9f-f14d-4265-a898-e16363702012" />
+					<attribute id="Name" type="LSString" value="MINO_Camera_Closeup_A_000" />
+					<attribute id="Speed" type="float" value="2" />
+					<attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="UseDOF" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741870" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_CC_H" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="a1a84319-cc18-1de5-fb00-16b034554e0c" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="8.148 2.312 113.369" />
+							<attribute id="RotationQuat" type="fvec4" value="-0.01190559 0.9484048 0.0360031 0.3147864" />
+							<attribute id="Scale" type="float" value="3" />
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DOFAperature" type="float" value="15" />
+					<attribute id="DOFFarOnly" type="float" value="1" />
+					<attribute id="DOFFarSharpDistance" type="float" value="3" />
+					<attribute id="DOFFocalDistance" type="float" value="4" />
+					<attribute id="DOFNearOnly" type="float" value="0" />
+					<attribute id="DOFNearSharpDistance" type="float" value="0" />
+					<attribute id="FOV" type="float" value="18" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Lerp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="SYS_CC_H" />
+					<attribute id="MapKey" type="FixedString" value="e220a360-13a5-473f-808e-cf3db8d1c89d" />
+					<attribute id="Name" type="LSString" value="MINO_Camera_Closeup_B_000" />
+					<attribute id="Speed" type="float" value="2" />
+					<attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+					<attribute id="Type" type="FixedString" value="trigger" />
+					<attribute id="UseDOF" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int32" value="1073741871" />
+					<children>
+						<node id="FadeChildren" />
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="SYS_CC_H" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="a1a84319-cc18-1de5-fb00-16b034554e0c" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="9.09 2.594 111.97" />
+							<attribute id="RotationQuat" type="fvec4" value="-0.008555049 0.915544 0.03693974 0.4004266" />
+							<attribute id="Scale" type="float" value="3" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

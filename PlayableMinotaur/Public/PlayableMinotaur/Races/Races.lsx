@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Races">
+        <node id="root">
+            <children>
+				<!-- Minotaur -->
+				<node id="Race">
+                    <attribute id="Description" type="FixedString" value="Minotaurs are big and scary. Watch out for the horns!"/>
+                    <attribute id="DisplayName" type="FixedString" value="Minotaur"/>
+                    <attribute id="Name" type="FixedString" value="Minotaur"/>
+                    <attribute id="ParentGuid" type="guid" value="31e1a2fe-0322-4540-95c3-9a28ad7fb202"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="RaceSoundSwitch" type="FixedString" value="Monstrosity"/>
+                    <attribute id="UUID" type="guid" value="6112e795-5d35-4057-a0d9-b2f23f8a7472"/>
+                </node>
+			</children>
+        </node>
+    </region>
+</save>
