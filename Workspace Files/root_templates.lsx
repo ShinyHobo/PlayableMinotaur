@@ -88,7 +88,7 @@
 									<attribute id="MinimumImpact" type="int32" value="0" />
 									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
 									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Shout_Reckless_Minotaur" />
+									<attribute id="Skill" type="FixedString" value="Shout_Reckless_Minotaur_Player" />
 									<attribute id="SpellCastinAbility" type="uint8" value="0" />
 									<attribute id="StartRound" type="int32" value="0" />
 									<attribute id="TacticianHardcore" type="bool" value="True" />
@@ -118,7 +118,7 @@
 									<attribute id="MinimumImpact" type="int32" value="0" />
 									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
 									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Target_Gore_Minotaur" />
+									<attribute id="Skill" type="FixedString" value="Target_Gore_Minotaur_Player" />
 									<attribute id="SpellCastinAbility" type="uint8" value="0" />
 									<attribute id="StartRound" type="int32" value="0" />
 									<attribute id="TacticianHardcore" type="bool" value="True" />
