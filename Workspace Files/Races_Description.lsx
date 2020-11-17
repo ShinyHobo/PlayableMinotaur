@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="48" />
+	<region id="TranslatedStringKeys">
+		<node id="root">
+			<children>
+				<node id="TranslatedStringKey">
+					<attribute id="UUID" type="FixedString" value="Minotaur_Description" />
+					<attribute id="Stub" type="bool" value="False" />
+					<attribute id="Content" type="TranslatedString" handle="h4f32e982g59a8g4726g981eg3f49cf8692ae" version="0"/>
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Speaker" type="FixedString" value="" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

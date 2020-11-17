@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <!-- Racial description -->
+                    <attribute id="Description" type="FixedString" value="Minotaur_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Minotaur_DisplayName"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="8e8a934b-578c-4193-bbe4-23caf345c72a"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="PlayableMinotaur"/>
+                    <attribute id="UUID" type="guid" value="eee7467e-75b8-4fca-805b-2eba5cd67fda"/>
+				</node>
+                <node id="ProgressionDescription">
+                    <!-- More AC -->
+                    <attribute id="Description" type="FixedString" value="ProgressionDescriptions_4AC_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="ProgressionDescriptions_4AC_DisplayName"/>
+                    <attribute id="ExactMatch" type="FixedString" value="AC(4)"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value=""/>
+                    <attribute id="UUID" type="guid" value="0433cfda-3e0c-428d-87d8-b47bcd7d1e72"/>
+                </node>
+                <node id="ProgressionDescription">
+					<!-- Darkvision -->
+					<attribute id="Description" type="FixedString" value="ProgressionDescriptions_New_Stat_90_Description"/>
+					<attribute id="DisplayName" type="FixedString" value="ProgressionDescriptions_New_Stat_90_DisplayName"/>
+					<attribute id="ExactMatch" type="FixedString" value="DarkvisionRangeMin(18)"/>
+					<attribute id="Hidden" type="bool" value="false"/>
+					<attribute id="ParamMatch" type="FixedString" value=""/>
+					<attribute id="PassivePrototype" type="FixedString" value=""/>
+					<attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+					<attribute id="ProgressionTableId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+					<attribute id="SelectorId" type="FixedString" value=""/>
+					<attribute id="Type" type="FixedString" value=""/>
+					<attribute id="UUID" type="guid" value="acd6f38b-a375-4191-9067-5d035d67dfb0"/>
+				</node>
+            </children>
+        </node>
+    </region>
+</save>
