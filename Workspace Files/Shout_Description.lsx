@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="49" />
+	<region id="TranslatedStringKeys">
+		<node id="root">
+			<children>
+				<node id="TranslatedStringKey">
+					<attribute id="UUID" type="FixedString" value="CustomDescription" />
+					<attribute id="ExtraData" type="LSString" value="" />
+					<attribute id="Stub" type="bool" value="True" />
+					<attribute id="Content" type="TranslatedString" handle="h349a0ceeg568fg4500ga945gb2b2110cb2d3" version="1" />
+					<attribute id="Speaker" type="FixedString" value="" />
+				</node>
+      </children>
+		</node>
+	</region>
+</save>
