@@ -1,0 +1,8 @@
+{
+  "name": "Playable_Minotaur",
+  "version_number": "0.4.0",
+  "website_url": "https://github.com/ShinyHobo/PlayableMinotaur",
+  "description": "Allows you to play as a minotaur.",
+  "dependencies": [
+  ]
+}
